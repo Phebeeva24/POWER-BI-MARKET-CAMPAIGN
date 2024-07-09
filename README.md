@@ -104,7 +104,7 @@ It provides an overview of finances, displaying revenue and profit or loss over 
 ### OVERVIEW DASHBOARD EXPLAINATION
 ---
 **Interactive Dashboard**-[Link](https://www.novypro.com/project/business-analytics-dashboard)
-**❇️ Novypro Power BI Dashboard**-[link](https://project.novypro.com/yuCLhA)
+
 ### Overall Observation:
 
 **HIGHEST  REVENUE GENERATING FACTORS**
